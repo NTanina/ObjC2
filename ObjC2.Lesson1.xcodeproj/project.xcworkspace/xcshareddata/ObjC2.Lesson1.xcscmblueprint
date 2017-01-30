@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "682A6E173269F1BAA81E9C1DEEE949DCDD466104",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7F9EEFE138A9F4BCCBCBEDBB88A7686CBD1DD09F" : 9223372036854775807,
+    "682A6E173269F1BAA81E9C1DEEE949DCDD466104" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45765B5B-40E7-4A35-A17E-76075F2AD50D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7F9EEFE138A9F4BCCBCBEDBB88A7686CBD1DD09F" : "..",
+    "682A6E173269F1BAA81E9C1DEEE949DCDD466104" : "ObjC2.Lesson1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ObjC2.Lesson1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ObjC2.Lesson1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NTanina\/ObjC2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "682A6E173269F1BAA81E9C1DEEE949DCDD466104"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NTanina\/studyGeekBrains.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7F9EEFE138A9F4BCCBCBEDBB88A7686CBD1DD09F"
+    }
+  ]
+}
